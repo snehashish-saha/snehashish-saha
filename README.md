@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**snehashish-saha/snehashish-saha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey! I'm YOUR NAME 👋
 
-Here are some ideas to get you started:
+### Software Developer • Builder • Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a developer who enjoys building things, learning new technologies,
+and turning ideas into real-world projects.
+
+- 🔭 Currently building: Something awesome
+- 🌱 Currently learning: New technologies
+- 💡 Interested in: Web development, AI & open source
+- ⚡ Fun fact: I love building things from scratch
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github,docker,mongodb,postgres)
+
+</div>
